@@ -35,3 +35,5 @@ const styles = StyleSheet.create({
 });
 
 export default ListScreen;
+
+// 5 ga keldim

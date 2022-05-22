@@ -13,7 +13,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: "Home",
     defaultNavigationOptions: {
-      title: "Component",
+      title: "Home",
     },
   }
 );

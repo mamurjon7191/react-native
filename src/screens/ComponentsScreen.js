@@ -8,7 +8,6 @@ const ComponentsScreen = () => {
   return (
     <View>
       <Text style={styles.textStyle1}>This is componentScreen component</Text>
-      <Text style={styles.textStyle2}>My name is {name}</Text>
     </View>
   );
 };
