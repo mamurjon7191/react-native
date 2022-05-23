@@ -12,18 +12,22 @@ const ImageScreen = (props) => {
       <ImageComponent
         title="forest1"
         imageSrc={require("../../assets/download-1.jpg")}
+        score="fully1"
       />
       <ImageComponent
         title="forest2"
         imageSrc={require("../../assets/download-2.jpg")}
+        score="fully2"
       />
       <ImageComponent
         title="forest3"
         imageSrc={require("../../assets/download-3.jpg")}
+        score="fully3"
       />
       <ImageComponent
         title="forest4"
         imageSrc={require("../../assets/download-3.jpg")}
+        score="fully4"
       />
     </View>
   );
